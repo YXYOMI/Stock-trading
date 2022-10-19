@@ -1,16 +1,3 @@
-# Stock-trading
-======================================================================================
-=                  AE2ACE coursework 2019 - 2020
-=                      Part I: Stock Trading 
-======================================================================================
-=                     Xinyi OUYANG / 20030865
-=
---------------------------------------------------------------------------------------
-
-Because of the different line break between macos and windows, if the line break is missing in your computer, PLEASE change another txt reader to read it.
-I would be very sorry for that.
-
----------------------------------------------------------------------------------------
 
 ATTENTION for test
 
