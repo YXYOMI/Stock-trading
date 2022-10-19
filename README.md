@@ -1,5 +1,5 @@
 
-Nov 2019
+Completed in Nov. 2019
 
 ATTENTION for test
 
